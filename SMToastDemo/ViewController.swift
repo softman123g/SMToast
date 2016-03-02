@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     
     func showDemo(sender:UIButton) {
         sender.alpha = 0.0
-        //        SMToast.showText("居中显示")
+//        SMToast.showText("居中显示")
         SMToast.showText("居中显示", duration: 5)
 //        SMToast.showText("距顶部50像素", topOffset: 50)
         SMToast.showText("距顶部50像素", topOffset: 50, duration: 5)
