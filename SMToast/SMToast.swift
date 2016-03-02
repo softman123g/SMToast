@@ -3,6 +3,10 @@
 //
 //  Created by softman on 16/1/29.
 //  Copyright © 2016年 softman. All rights reserved.
+//
+//  Contact me: softman123g@126.com
+//  Or Star me: https://github.com/softman123g/SMToast
+//
 //  一个Toast显示工具
 //  A simple Toast notification, like Android Toast. Used Swift.
 //
