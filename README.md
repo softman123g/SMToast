@@ -1,5 +1,6 @@
 # SMToast
 A simple Toast notification, like Android Toast. Used Swift.
+
 一个简单的Toast提示框，类似Android的Toast。使用Swift语言实现。
 
 ## How to use?
