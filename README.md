@@ -17,9 +17,6 @@ A simple Toast notification, like Android Toast. Used Swift.
 	SMToast.showText("距底部5像素", bottomOffset: 5, duration: 5)
 	
 ##Features / 功能
-效果图：
-
-![DemoPic](/img_demo.PNG)
 
 1. 支持显示多行文本
 2. 支持设置显示时长
@@ -28,6 +25,10 @@ A simple Toast notification, like Android Toast. Used Swift.
 5. 支持屏幕旋转时自动隐藏
 6. 支持回车换行
 7. 静态方法直接调用
+
+效果图：
+
+![DemoPic](/img_demo.PNG)
 
 ##About Me
 Contact me : softman123g@126.com
