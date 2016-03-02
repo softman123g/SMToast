@@ -4,7 +4,8 @@ A simple Toast notification, like Android Toast. Used Swift.
 一个简单的Toast提示框，类似Android的Toast。使用Swift语言实现。
 
 ## How to use?
-很简单的直接使用 SMToast.showText(...)
+简单的将 SMToast/SMToast.swift 拷贝到自己的项目中。
+然后调用 SMToast.showText(...)
 
 	//        SMToast.showText("居中显示")
 	SMToast.showText("居中显示", duration: 5)
